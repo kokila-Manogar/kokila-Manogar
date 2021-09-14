@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kokila-Manogar
-- 👀 I’m interested are in Web & Mobile app development
-- 🌱 I’m currently learning MERN stacks
+- 👀 I’m interested are in Web & Mobile app development and Data Science
+- 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kokila.cb19@bitsathy.ac.in
 
