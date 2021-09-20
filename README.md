@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2" width="40" height="40"/>
 </p>
 
-
+<hr>
 
 <td style="text-align:center">
 <a href="https://www.linkedin.com/in/kokila-m-97b8531a9/">
@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:kokila.cb19@bitsathy.ac.inm"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> 
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repositories!</h3
+
